@@ -1,6 +1,6 @@
 # Najam Saqib - DevOps Portfolio
 
-🚀 **Live Portfolio**: https://najam009.github.io/portfolio
+🚀 **Live Portfolio**: https://najam-nine.vercel.app/
 
 ## About Me
 
@@ -44,3 +44,4 @@ DevOps Engineer specializing in:
 ---
 
 Built with 💜 for DevOps & Cloud Technologies
+
